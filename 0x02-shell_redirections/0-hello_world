@@ -1,1 +1,2 @@
-echo Hello, Word
+echo Hello, Word > 0-hello_world
+echo echo Hello, Word
